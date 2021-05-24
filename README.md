@@ -23,3 +23,4 @@ What I did
 -I changed the Font entered in CSS from white to black to make it easier to read
 -added the save button function 
 -set up the saved data in the local storage 
+![image](https://user-images.githubusercontent.com/82131327/119301473-646bfb00-bc17-11eb-8928-18d910139561.png)
